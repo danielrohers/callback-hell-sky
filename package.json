@@ -1,0 +1,17 @@
+{
+  "name": "callback-hell-sky",
+  "version": "1.0.0",
+  "description": "Example of callback hell and callback sky",
+  "author": "Daniel Rohers Moura",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrohers/callback-hell-sky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielrohers/callback-hell-sky/issues"
+  },
+  "homepage": "https://github.com/danielrohers/callback-hell-sky",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
